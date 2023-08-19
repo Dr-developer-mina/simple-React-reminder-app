@@ -1,13 +1,26 @@
-body {
+* {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
 }
+body {
+  height: 100dvh;
+  background-color: #067b9b;
+  /* background-image: url(./assets/flat-lay-blue-monday-concept-with-copy-space.jpg);
+  background-position: center center;
+  background-attachment: fixed;
+  background-repeat: no-repeat; background-size: cover; */
+}
+.table{
+  font-size: 12px;
+  font-weight: 600;
+  opacity: 0.9;
+}
+th{
+color:#067b9b !important; 
+}
+button{
+  color:#067b9b !important; 
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
 }
