@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simple-React-reminder-app/static/css/main.08d4acaf.css",
+    "main.js": "/simple-React-reminder-app/static/js/main.37f82b7e.js",
+    "static/js/787.b50c84d7.chunk.js": "/simple-React-reminder-app/static/js/787.b50c84d7.chunk.js",
+    "index.html": "/simple-React-reminder-app/index.html",
+    "main.08d4acaf.css.map": "/simple-React-reminder-app/static/css/main.08d4acaf.css.map",
+    "main.37f82b7e.js.map": "/simple-React-reminder-app/static/js/main.37f82b7e.js.map",
+    "787.b50c84d7.chunk.js.map": "/simple-React-reminder-app/static/js/787.b50c84d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08d4acaf.css",
+    "static/js/main.37f82b7e.js"
+  ]
+}
